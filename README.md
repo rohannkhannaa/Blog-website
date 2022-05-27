@@ -1,7 +1,7 @@
 # Blog-website
 This website will allow user to post his blog.
 
-We have four differnt sections on web page.
+We have four different sections on web page.
 
 Note that : Compose section can be authenticated via a signup. (To be added yet)
 
