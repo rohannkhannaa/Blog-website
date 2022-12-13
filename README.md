@@ -19,10 +19,5 @@ Used EJS file handling, deployed app on heroku.
 
 For backend part, used Express.js with Node.js.
 
-Used Heroku for publishing webpage.
-
-Webpage at : 
-https://blogwebsite1212.herokuapp.com/
-
 // Rohan Khanna, IIT Ropar
 >>>>>>> dad92bc272934d6c0c19efd3cbd9c25918914177
